@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_share">Share</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="confirm_message">Delete the selected note(s) PERMANENTLY?</string>
+    <string name="warning_save">Cannot save an empty note</string>
+    <string name="confirm_save">Saved Successfully!</string>
+    <string name="confirm_edit">Edited Successfully!</string>
+    <string name="confirm_copy">Copied!</string>
+    <string name="warning_share">Cannot share an empty note</string>
+</resources>

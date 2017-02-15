@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مذكراتي</string>
+    <string name="description">المحتوي</string>
+    <string name="title">العنوان</string>
+    <string name="action_share">مشاركة</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_edit">تعديل</string>
+    <string name="confirm_deleting">تأكيد الحذف</string>
+    <string name="confirm_message">هل تريد حذف العناصر المحددة نهائياً؟</string>
+    <string name="action_cancel">الغاء</string>
+    <string name="action_copy">نسخ</string>
+    <string name="confirm_copy">تم النسخ</string>
+    <string name="confirm_edit">تم التعديل بنجاح</string>
+    <string name="confirm_save">تم الحفظ بنجاح</string>
+    <string name="warning_save">لا يمكن الحفظ، البيانات المطلوبة غير مكتملة</string>
+    <string name="warning_share">لا يمكن المشاركة، البيانات المطلوبة غير مكتملة</string>
+    <string name="action_settings">الضبط</string>
+</resources>
