@@ -1,4 +1,4 @@
-#Summary
+# Summary #
 Daily notes are important nowadays. Try this app to save your notes quickly and effectively.
 #Features
 <ul>
@@ -8,13 +8,13 @@ Daily notes are important nowadays. Try this app to save your notes quickly and 
 <li>Low memory consumption</li>
 </ul>
 
-#Screenshots
+# Screenshots #
 <img src="https://s9.postimg.org/j6b7tamrj/Screenshot_20170215_225317.png"/>
 <img src="https://s9.postimg.org/qat12bu0v/Screenshot_20170215_225331.png"/>
 <img src="https://s9.postimg.org/tixifdgan/Screenshot_20170215_225459.png"/>
 <img src="https://s9.postimg.org/53paebhdr/Screenshot_20170215_225509.png"/>
 
-#License
+# License #
 <pre><code>
    Copyright 2017 Mai Ahmed
 
