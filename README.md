@@ -1,6 +1,7 @@
 # Summary #
 Daily notes are important nowadays. Try this app to save your notes quickly and effectively.
-#Features
+
+# Features
 <ul>
 <li>Save notes as Text</li>
 <li>Edit, share, delete selected notes</li>
