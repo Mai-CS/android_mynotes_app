@@ -13,6 +13,9 @@ Daily notes are important nowadays. Try this app to save your notes quickly and 
 <img src="https://s30.postimg.org/wv9qp1ru9/nexus5x-portrait.png"/>
 <img src="https://s30.postimg.org/hntr4ozzl/nexus5x-portrait2.png"/>
 
+# Tools & Technologies
+SQLite Database, Fragments Support, Share intent, Localization
+
 # License #
 <pre><code>
    Copyright 2017 Mai Ahmed
