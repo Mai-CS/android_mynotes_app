@@ -10,11 +10,14 @@ Daily notes are important nowadays. Try this app to save your notes quickly and 
 </ul>
 
 # Screenshots #
-<img src="https://s30.postimg.org/wv9qp1ru9/nexus5x-portrait.png"/>
-<img src="https://s30.postimg.org/hntr4ozzl/nexus5x-portrait2.png"/>
+<img src="https://s8.postimg.org/hr8rph2w5/screener_1497215262902.png"/>
+<img src="https://s8.postimg.org/hfrbcpmg5/screener_1497215687746.png"/>
 
 # Tools & Technologies
 SQLite Database, Fragments Support, Share intent, Localization
+
+
+<a href="https://drive.google.com/open?id=0ByN8UVrN9463Z2tQRVVUQWwxNjQ"><img src="http://www.apkdisc.com/style/apkdiscad2.png" width="150" height="80" /></a> 
 
 # License #
 <pre><code>
