@@ -11,7 +11,9 @@ Daily notes are important nowadays. Try this app to save your notes quickly and 
 
 # Screenshots #
 <img src="https://s8.postimg.org/hr8rph2w5/screener_1497215262902.png"/>
+<img src="https://s8.postimg.org/taknf5zyt/screener_1497217034375.png"/>
 <img src="https://s8.postimg.org/hfrbcpmg5/screener_1497215687746.png"/>
+<img src="https://s8.postimg.org/opyh08g9h/screener_1497217128396.png"/>
 
 # Tools & Technologies
 SQLite Database, Fragments Support, Share intent, Localization
