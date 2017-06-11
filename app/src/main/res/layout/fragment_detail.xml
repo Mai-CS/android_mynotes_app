@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<ScrollView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -28,7 +27,7 @@
             android:layout_height="wrap_content"
             android:textColor="@android:color/darker_gray"
             android:textSize="12sp"
-            android:visibility="gone"/>
+            android:visibility="gone" />
 
         <android.support.v7.widget.AppCompatEditText
             android:id="@+id/title_edit_text"
@@ -41,7 +40,7 @@
             android:textColor="@color/colorTitle"
             android:textSize="18sp"
             android:textStyle="bold"
-            app:backgroundTint="@color/colorTitle"/>
+            app:backgroundTint="@color/colorTitle" />
 
         <EditText
             android:id="@+id/desc_edit_text"
@@ -53,6 +52,6 @@
             android:hint="@string/description"
             android:inputType="textMultiLine"
             android:textColor="@android:color/black"
-            android:textSize="16sp"/>
+            android:textSize="16sp" />
     </LinearLayout>
 </ScrollView>
