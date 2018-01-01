@@ -19,7 +19,7 @@ Daily notes are important nowadays. Try this app to save your notes quickly and 
 SQLite Database, Fragments Support, Share intent, Localization
 
 
-<a href="https://drive.google.com/open?id=0ByN8UVrN9463Z2tQRVVUQWwxNjQ"><img src="http://www.apkdisc.com/style/apkdiscad2.png" width="150" height="80" /></a> 
+<a href="https://drive.google.com/open?id=0ByN8UVrN9463Z2tQRVVUQWwxNjQ"><img src="http://dimitrology.com/wp-content/uploads/2017/02/download-apk.png" width="150" height="80" /></a> 
 
 # License #
 <pre><code>
