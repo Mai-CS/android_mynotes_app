@@ -10,16 +10,22 @@ Daily notes are important nowadays. Try this app to save your notes quickly and 
 </ul>
 
 # Screenshots #
-<img src="https://s8.postimg.org/hr8rph2w5/screener_1497215262902.png"/>
-<img src="https://s11.postimg.org/sq94dfqg3/screener_1497217495494.png"/>
-<img src="https://s8.postimg.org/hfrbcpmg5/screener_1497215687746.png"/>
-<img src="https://s8.postimg.org/taknf5zyt/screener_1497217034375.png"/>
+ <table>
+  <tr>
+    <td><img src="https://image.ibb.co/mx4dtT/screener_1497215262902.png"/></td>
+    <td><img src="https://image.ibb.co/izCsL8/screener_1497217495494.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://image.ibb.co/j2cEYT/screener_1497215687746.png"/></td>
+    <td><img src="https://image.ibb.co/bGeuYT/screener_1497217034375.png"/></td>
+  </tr>
+</table> 
 
 # Tools & Technologies
 SQLite Database, Fragments Support, Share intent, Localization
 
 
-<a href="https://drive.google.com/open?id=0ByN8UVrN9463Z2tQRVVUQWwxNjQ"><img src="http://dimitrology.com/wp-content/uploads/2017/02/download-apk.png" width="150" height="80" /></a> 
+<a href="https://drive.google.com/open?id=0ByN8UVrN9463Z2tQRVVUQWwxNjQ"><img src="https://image.ibb.co/h45q7o/android_download.png" width="25%" height="25%"/></a> 
 
 # License #
 <pre><code>
